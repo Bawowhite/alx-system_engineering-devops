@@ -1,2 +1,0 @@
-#!/bin/bash
-ln -sf /bin/ln __ls___
